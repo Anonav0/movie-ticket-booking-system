@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=cinemaTicket
+comment1.params=
+comment1.target=void\ welcomeMessage()
+comment2.params=
+comment2.target=void\ userInputs()
+comment3.params=
+comment3.target=void\ adultFilms()
+comment4.params=
+comment4.target=void\ underFilms()
+comment5.params=ch
+comment5.target=void\ filmChoice(int)
+comment6.params=ch
+comment6.target=void\ filmChoiceU(int)
+comment7.params=
+comment7.target=void\ userDetails()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
